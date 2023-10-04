@@ -14,6 +14,8 @@
 
   📌 [Frequently Asked Questions (FAQ)](https://github.com/anoymousoum/anonymous-demo/blob/main/FAQ.md)
 
+  [Appendix](https://github.com/anoymousoum/anonymous-demo/blob/main/appendix.pdf)
+
   📨 Feel free to reach out if you have any questions by emailing xxxx
 
 ## Getting started
