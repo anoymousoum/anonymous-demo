@@ -10,9 +10,9 @@
 
   🎥 [CollabKG systems demonstration video](https://www.youtube.com/channel/UCsadiRvhW9dsmn4KtRDCaFg)
 
-  📌 [Overview of how to use CollabKG](https://github.com/anoymousoum/ano-collabkg/blob/main/About.md)
+  📌 [Overview of how to use CollabKG](https://github.com/anoymousoum/anonymous-demo/blob/main/About.md)
 
-  📌 [Frequently Asked Questions (FAQ)](https://github.com/anoymousoum/ano-collabkg/blob/main/FAQ.md)
+  📌 [Frequently Asked Questions (FAQ)](https://github.com/anoymousoum/anonymous-demo/blob/main/FAQ.md)
 
   📨 Feel free to reach out if you have any questions by emailing xxxx
 
